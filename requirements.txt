@@ -1,0 +1,21 @@
+# Web framework
+streamlit==1.27.0
+
+# HTTP requests & parsing
+requests>=2.31.0
+beautifulsoup4>=4.12.2
+lxml>=4.9.3
+urllib3>=2.0.4
+
+# Google GenAI SDK
+google-genai>=0.10.0
+
+# ChromaDB client
+chromadb>=0.4.6
+
+# Utilities
+uuid
+textwrap
+
+# Optional: for caching and typing
+typing-extensions
